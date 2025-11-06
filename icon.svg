@@ -1,0 +1,20 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="192" height="192" rx="42" fill="url(#gradient)"/>
+  
+  <!-- Water droplet icon -->
+  <path d="M96 40C96 40 72 72 72 96C72 109.255 82.745 120 96 120C109.255 120 120 109.255 120 96C120 72 96 40 96 40Z" 
+        fill="white" opacity="0.9"/>
+  
+  <!-- Power symbol -->
+  <circle cx="96" cy="136" r="12" stroke="white" stroke-width="3" fill="none" opacity="0.9"/>
+  <line x1="96" y1="136" x2="96" y2="124" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="192" y2="192" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+  </defs>
+</svg>
